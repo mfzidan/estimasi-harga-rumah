@@ -431,4 +431,4 @@ if st.button("💰 Estimasi Harga Rumah", use_container_width=True):
     st.markdown("---")
     st.subheader("📌 Faktor yang Mempengaruhi Harga Rumah")
     st.info("📐 **Luas Tanah & Bangunan:** Dua faktor utama yang paling menentukan mahal atau murahnya harga sebuah rumah.")
-    st.info("📍 **Lokasi & Akses:** Lokasi dan akses yang mudah tehadap fasilitas umum cenderung memiliki harga yang lebih tinggi.")
+    st.info("📍 **Lokasi & Akses:** Lokasi dan akses yang mudah terhadap fasilitas umum cenderung memiliki harga yang lebih tinggi.")
